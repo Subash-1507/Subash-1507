@@ -67,6 +67,8 @@
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge\&logo=wireshark)
 
+---
+
 ### 🖥️ OS
 
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge\&logo=linux)

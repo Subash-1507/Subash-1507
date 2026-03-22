@@ -9,7 +9,7 @@
 ## 🎯 About Me
 
 * 🎓 M.Tech Cybersecurity (Pursuing)
-* 💼 2+ Years Experience in DevOps & IT
+* 💼 ~2 Years Experience in DevOps & IT
 * ☁️ Azure | AWS | Cloud Security
 * 🔐 Focus: IAM, SIEM, SOC, Cloud Security
 * 🧠 Strong in CI/CD, Automation & Infrastructure

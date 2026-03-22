@@ -39,7 +39,6 @@
 ### 🐳 Containers & Orchestration
 
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge\&logo=kubernetes)
 
 ---
 

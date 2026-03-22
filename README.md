@@ -16,6 +16,22 @@
 
 ---
 
+## 🏅 Certifications
+
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue?style=for-the-badge\&logo=microsoftazure)
+![SC-200](https://img.shields.io/badge/SC--200-Security%20Operations%20Analyst-blue?style=for-the-badge\&logo=microsoft)
+![DP-600](https://img.shields.io/badge/DP--600-Microsoft%20Fabric%20Analytics-blue?style=for-the-badge\&logo=microsoft)
+
+---
+
+### 📜 Microsoft Certifications
+
+* **AZ-900** – Microsoft Azure Fundamentals
+* **SC-200** – Microsoft Security Operations Analyst
+* **DP-600** – Microsoft Fabric Analytics Engineer
+
+---
+
 ## ⚔️ Technical Arsenal
 
 ### 💻 Programming

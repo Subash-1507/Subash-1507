@@ -45,6 +45,7 @@
 
 * 🏆 Intel Cloud DevOps Certification
 * 🏆 Postman API Fundamentals Student Expert
+* 🏆 GitHub Foundations
 
 ---
 

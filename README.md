@@ -18,17 +18,33 @@
 
 ## 🏅 Certifications
 
+### ☁️ Microsoft Azure & Security
+
 ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue?style=for-the-badge\&logo=microsoftazure)
-![SC-200](https://img.shields.io/badge/SC--200-Security%20Operations%20Analyst-blue?style=for-the-badge\&logo=microsoft)
-![DP-600](https://img.shields.io/badge/DP--600-Microsoft%20Fabric%20Analytics-blue?style=for-the-badge\&logo=microsoft)
+
+* **AZ-900 – Microsoft Azure Fundamentals**
+  🔗 https://learn.microsoft.com/api/credentials/share/en-us/SubashChandraBoseMurugan-6649/6BCBAEF9796A3D65?sharingId=12E7C5961A8F7B62
 
 ---
 
-### 📜 Microsoft Certifications
+![SC-200](https://img.shields.io/badge/SC--200-Security%20Operations%20Analyst-blue?style=for-the-badge\&logo=microsoft)
 
-* **AZ-900** – Microsoft Azure Fundamentals
-* **SC-200** – Microsoft Security Operations Analyst
-* **DP-600** – Microsoft Fabric Analytics Engineer
+* **SC-200 – Microsoft Security Operations Analyst**
+  🔗 https://learn.microsoft.com/api/credentials/share/en-us/SubashChandraBoseMurugan-6649/85912939314F9F2A?sharingId=12E7C5961A8F7B62
+
+---
+
+![DP-600](https://img.shields.io/badge/DP--600-Microsoft%20Fabric%20Analytics-blue?style=for-the-badge\&logo=microsoft)
+
+* **DP-600 – Microsoft Fabric Analytics Engineer**
+  🔗 https://learn.microsoft.com/api/credentials/share/en-us/SubashChandraBoseMurugan-6649/BB51AB185F13DAA6?sharingId=12E7C5961A8F7B62
+
+---
+
+## 📌 Additional Credentials
+
+* 🏆 Intel Cloud DevOps Certification
+* 🏆 Postman API Fundamentals Student Expert
 
 ---
 

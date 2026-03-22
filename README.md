@@ -90,4 +90,21 @@
 
 ---
 
+### 🔐 Security & Monitoring
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-blue?style=for-the-badge\&logo=microsoft)
+![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge\&logo=splunk)
+![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Tenable%20Nessus-green?style=for-the-badge)
+
+---
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![Ansible](https://img.shields.io/badge/Ansible-red?style=for-the-badge\&logo=ansible)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge\&logo=wireshark)
+
+
 🔥 *“Automating the cloud. Securing the future.”*

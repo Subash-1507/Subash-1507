@@ -86,8 +86,8 @@
 
 ## 📫 Connect With Me
 
-* 📧 Your Email
-* 💼 LinkedIn: Your Profile Link
+* 📧 bosemrgn@gmail.com
+* 💼 LinkedIn: www.linkedin.com/in/subash-chandra-bose-014bb21b5
 
 ---
 

@@ -123,6 +123,7 @@
 * 🔹 LAMP Stack & WordPress Deployment
 * 🔹 AEM Azure AD SAML Integration
 * 🔹 Adobe Cloud Manager Git Integration
+* 🔹 Automate Docker builds using Jenkins Pipelines | Dockerize Python App | Upload Images into AWS ECR | Push to ecs, the docker container which is created|Deploying to ECS Fargate.
 
 ---
 

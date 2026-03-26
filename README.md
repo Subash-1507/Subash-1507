@@ -124,6 +124,11 @@
 * 🔹 AEM Azure AD SAML Integration
 * 🔹 Adobe Cloud Manager Git Integration
 * 🔹 Automate Docker builds using Jenkins Pipelines | Dockerize Python App | Upload Images into AWS ECR | Push to ecs, the docker container which is created|Deploying to ECS Fargate.
+* 🔹 Securing DVWA Using ModSecurity: A Hands-On WAF Implementation.
+* 🔹 Configure a GitHub Action to create azure container instance!
+* 🔹 How to setup Docker Containers as Build Agents ?
+* 🔹 Upload code to bit bucket online , build code and deploy image to private registry in droplet(vm) in digital ocean and deploy as container to droplet(VM) docker using Jenkins.
+* 🔹 Deploying NodeJS app upon docker container and asks nginx to start listening on port 80, specifying the files to serve ( builder stage to the Nginx HTML directory) by creating seperate default.conf
 
 ---
 

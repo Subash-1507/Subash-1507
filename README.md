@@ -111,9 +111,9 @@
 
 ## 📊 GitHub Stats
 
-![Subash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subash-1507\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Subash-1507&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subash-1507\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subash-1507&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 

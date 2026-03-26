@@ -117,7 +117,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🦾 Featured Projects
 
 * 🔹 Azure DevOps Practical Labs
 * 🔹 LAMP Stack & WordPress Deployment

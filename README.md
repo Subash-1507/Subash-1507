@@ -129,6 +129,7 @@
 * 🔹 How to setup Docker Containers as Build Agents ?
 * 🔹 Upload code to bit bucket online , build code and deploy image to private registry in droplet(vm) in digital ocean and deploy as container to droplet(VM) docker using Jenkins.
 * 🔹 Deploying NodeJS app upon docker container and asks nginx to start listening on port 80, specifying the files to serve ( builder stage to the Nginx HTML directory) by creating seperate default.conf
+* 🔹 Anomaly-Based Threat Detection Dashboard - Helps IT-Ops team to understand anomalies.
 
 ---
 

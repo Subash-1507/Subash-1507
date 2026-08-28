@@ -113,6 +113,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Subash-1507&theme=tokyonight)
 
+![Subash Chandra Bose's GitHub Stats](https://github-readme-stats-plan-f96f.vercel.app/api?username=Subash-1507&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-plan-f96f.vercel.app/api/top-langs/?username=Subash-1507&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🦾 Featured Projects

@@ -20,21 +20,28 @@
 
 ### ☁️ Microsoft Azure & Security
 
-![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue?style=for-the-badge\&logo=microsoftazure)
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure)
 
 * **AZ-900 – Microsoft Azure Fundamentals**
   🔗 https://learn.microsoft.com/api/credentials/share/en-us/SubashChandraBoseMurugan-6649/6BCBAEF9796A3D65?sharingId=12E7C5961A8F7B62
 
 ---
 
-![SC-200](https://img.shields.io/badge/SC--200-Security%20Operations%20Analyst-blue?style=for-the-badge\&logo=microsoft)
+![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-blue?style=for-the-badge&logo=microsoftazure)
+
+* **AZ-104 – Microsoft Azure Administrator Associate**
+  🔗 https://learn.microsoft.com/api/credentials/share/en-us/SubashChandraBoseMurugan-6649/48CB4ACBCF86E42B?sharingId=12E7C5961A8F7B62
+
+---
+
+![SC-200](https://img.shields.io/badge/SC--200-Security%20Operations%20Analyst-blue?style=for-the-badge&logo=microsoft)
 
 * **SC-200 – Microsoft Security Operations Analyst**
   🔗 https://learn.microsoft.com/api/credentials/share/en-us/SubashChandraBoseMurugan-6649/85912939314F9F2A?sharingId=12E7C5961A8F7B62
 
 ---
 
-![DP-600](https://img.shields.io/badge/DP--600-Microsoft%20Fabric%20Analytics-blue?style=for-the-badge\&logo=microsoft)
+![DP-600](https://img.shields.io/badge/DP--600-Microsoft%20Fabric%20Analytics-blue?style=for-the-badge&logo=microsoft)
 
 * **DP-600 – Microsoft Fabric Analytics Engineer**
   🔗 https://learn.microsoft.com/api/credentials/share/en-us/SubashChandraBoseMurugan-6649/BB51AB185F13DAA6?sharingId=12E7C5961A8F7B62
@@ -53,25 +60,25 @@
 
 ### 💻 Programming
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![Bash](https://img.shields.io/badge/Bash-green?style=for-the-badge\&logo=gnubash)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge\&logo=mysql)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-green?style=for-the-badge&logo=gnubash)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
 
 ---
 
 ### 🌐 Cloud & DevOps
 
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge\&logo=microsoftazure)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge\&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge\&logo=terraform)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-blue?style=for-the-badge\&logo=azuredevops)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge\&logo=jenkins)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-blue?style=for-the-badge&logo=azuredevops)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
 
 ---
 
 ### 🐳 Containers & Orchestration
 
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
 ---
 
@@ -86,8 +93,8 @@
 
 ### 🔐 Security & Monitoring
 
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-blue?style=for-the-badge\&logo=microsoft)
-![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge\&logo=splunk)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-blue?style=for-the-badge&logo=microsoft)
+![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk)
 ![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=for-the-badge)
 ![Nessus](https://img.shields.io/badge/Tenable%20Nessus-green?style=for-the-badge)
 
@@ -95,17 +102,17 @@
 
 ### 🧰 Tools
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![Ansible](https://img.shields.io/badge/Ansible-red?style=for-the-badge\&logo=ansible)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge\&logo=wireshark)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Ansible](https://img.shields.io/badge/Ansible-red?style=for-the-badge&logo=ansible)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
 
 ---
 
 ### 🖥️ OS
 
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge\&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge\&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
 
 ---
 

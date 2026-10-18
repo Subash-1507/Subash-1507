@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/Subash-1507">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Subash+Chandra+Bose+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+%26+Security;SOC+%26+Detection+Engineering;Automating+the+cloud.+Securing+the+future." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I'm+Subash+Chandra+Bose+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+%26+Security;SOC+%26+Detection+Engineering;Automating+the+cloud.+Securing+the+future." alt="Typing SVG" />
 </a>
 
 <p>

@@ -9,6 +9,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Subash-1507.Subash-1507&title=Profile%20Views&color=36BCF7" alt="profile views" />
 </p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-subash--1507.github.io-8F9EFF?style=for-the-badge&logo=githubpages&logoColor=white)](https://subash-1507.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-chandra-bose-014bb21b5)
 [![Medium](https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@subashchandra_71374/)
 [![Email](https://img.shields.io/badge/Email-bosemrgn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bosemrgn@gmail.com)

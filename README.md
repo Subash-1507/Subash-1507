@@ -6,7 +6,7 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Subash-1507&label=Profile%20views&color=36BCF7&style=flat" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Subash-1507.Subash-1507&title=Profile%20Views&color=36BCF7" alt="profile views" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-chandra-bose-014bb21b5)

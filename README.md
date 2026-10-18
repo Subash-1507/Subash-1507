@@ -92,10 +92,6 @@ motto: "I'll put everything I learn into practice!"
 
 <img src="https://streak-stats.demolab.com?user=Subash-1507&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img src="https://github-trophies.vercel.app/?username=Subash-1507&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="trophies" />
-
-<img src="https://ghchart.rshah.org/36BCF7/Subash-1507" alt="contribution chart" width="100%" />
-
 </div>
 
 ---
